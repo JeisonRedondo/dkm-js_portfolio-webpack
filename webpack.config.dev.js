@@ -11,7 +11,8 @@ module.exports = {
         filename: '[name].js',
         clean:true,
     },
-    mode:'development',
+    mode: 'development',
+    watch: true ,
     resolve: {
         extensions: ['.js'],
         alias: {
