@@ -10,8 +10,7 @@
     "build:watch" : "webpack --watch --config webpack.config.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gndx/js-portfolio.git"
+    "url":"https://github.com/JeisonRedondo/dkm-js_portfolio-webpack"
   },
   "keywords": [
     "javascript",
@@ -21,9 +20,8 @@
   "author": "oscar barajas <oscar@gndx.dev>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gndx/js-portfolio/issues"
   },
-  "homepage": "https://github.com/gndx/js-portfolio#readme",
+  "homepage": "",
   "devDependencies": {
     "@babel/core": "^7.21.0",
     "@babel/plugin-transform-runtime": "^7.21.0",
